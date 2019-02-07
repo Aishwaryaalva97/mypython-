@@ -1,0 +1,6 @@
+def add(n1,n2):
+    sum=n1+n2
+    return sum
+x=add(1 ,4)
+print (x)
+
